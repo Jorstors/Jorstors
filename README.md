@@ -1,6 +1,9 @@
-<h2 align="left">Hi! I'm Justus, a full stack developer from Richland, Washington</h2>
+<h2 align="left">👋 Hello! &nbsp;&nbsp;&nbsp;I'm Justus, a Full Stack Developer from Richland, Washington</h2>
 
 ###
+> <h4 align="left">I'm a Computer Science student at WSU with a 3.73 GPA and full-stack engineer expertise in frameworks and libraries including TypeScript, Node.js, React, Shadcn, Python, and C++. Winner of the Crimson Code Hackathon and frequent hackathon participant. Developed scalable applications such as PageSense and Asciinator, recent projects leveraging Firebase, Docker and serverless architectures to deliver user-centric high-performance solutions.</h4>
+<br>
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jorstors&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
