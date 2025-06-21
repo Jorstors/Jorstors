@@ -1,40 +1,49 @@
-<h2 align="left">👋 Hello! &nbsp;&nbsp;&nbsp;I'm Justus, a Full Stack Developer from Richland, Washington</h2>
+<h2 align="left">Hi! I'm Justus, a Full Stack Developer from Richland, Washington</h2>
 
 ###
-> <h4 align="left">I'm a Computer Science student at WSU with a 3.73 GPA and full-stack engineer expertise in frameworks and libraries including TypeScript, Node.js, React, Shadcn, Python, and C++. Winner of the Crimson Code Hackathon and frequent hackathon participant. Developed scalable applications such as PageSense and Asciinator, recent projects leveraging Firebase, Docker and serverless architectures to deliver user-centric high-performance solutions.</h4>
-<br>
-<br>
+
+- 🎓 **Computer Science student** at Washington State University (WSU) – 3.73 GPA  
+- 💻 **Full-stack engineer** skilled in TypeScript, Node.js, React, shadcn/ui, Python, and C++  
+- 🏆 **Crimson Code Hackathon** winner and frequent participant in hackathons  
+- 🚀 Built **scalable applications** like **PageSense** and **Asciinator**  
+- 🔧 Recent projects leverage **Firebase**, **Docker**, and **serverless architectures**  
+- 🎯 Passionate about delivering **user-centric, high-performance solutions**
+
+###
+
+<br clear="both">
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlkNTR2cjB6cmViaGwyYmdodWxzdnl6MDcybm9pYWo1ZHk1c3JlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0VI4nfJrbUYhiNnFiw/giphy.gif" width="148" alt="fun gif" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jorstors&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="200" alt="languages graph" />
+</p>
+
+
+
+###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jorstors&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jorstors&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
 </div>
 
 ###
 
-<img align="left" height="148" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlkNTR2cjB6cmViaGwyYmdodWxzdnl6MDcybm9pYWo1ZHk1c3JlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0VI4nfJrbUYhiNnFiw/giphy.gif"  />
+<br clear="both">
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/jorstors/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -50,6 +59,7 @@
 </div>
 
 ###
+
 
 <br clear="both">
 
