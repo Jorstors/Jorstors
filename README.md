@@ -2,12 +2,22 @@
 
 ###
 
-- 🎓 **Computer Science student** at Washington State University (WSU) – 3.73 GPA  
-- 💻 **Full-stack engineer** skilled in TypeScript, Node.js, React, shadcn/ui, Python, and C++  
-- 🏆 **Crimson Code Hackathon** winner and frequent participant in hackathons  
-- 🚀 Built **scalable applications** like **PageSense** and **Asciinator**  
-- 🔧 Recent projects leverage **Firebase**, **Docker**, and **serverless architectures**  
-- 🎯 Passionate about delivering **user-centric, high-performance solutions**
+🎓 **Computer Science student** at Washington State University (WSU) – 3.73 GPA  
+
+
+💻 **Full-stack engineer** skilled in TypeScript, Node.js, React, shadcn/ui, Python, and C++  
+
+
+🏆 **Crimson Code Hackathon** winner and frequent participant in hackathons  
+
+
+🚀 Built **scalable applications** like **PageSense** and **Asciinator**  
+
+
+🔧 Recent projects leverage **Firebase**, **Docker**, and **serverless architectures**  
+
+
+🎯 Passionate about delivering **user-centric, high-performance solutions**
 
 ###
 
