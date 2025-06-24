@@ -2,7 +2,7 @@
 
 ###
 
-🎓 **Computer Science student** at Washington State University (WSU) – 3.73 GPA  
+🎓 **Computer Science student** at Washington State University (WSU) – 3.83 GPA  
 
 
 💻 **Full-stack engineer** skilled in TypeScript, Node.js, React, shadcn/ui, Python, and C++  
