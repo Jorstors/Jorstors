@@ -5,7 +5,7 @@
 🎓 **Computer Science student** at Washington State University (WSU) – 3.83 GPA  
 
 
-💻 **Full-stack engineer** skilled in Python, and C++, TypeScript, Node.js, React, shadcn/ui
+💻 **Full-stack engineer** skilled in Python, C++, TypeScript, Node.js, React, and shadcn/ui
 
 
 🏆 **Crimson Code Hackathon** winner and frequent participant in hackathons  
