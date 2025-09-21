@@ -11,10 +11,10 @@
 🏆 **Crimson Code Hackathon** winner and frequent participant in hackathons  
 
 
-🚀 Built **scalable applications** like **PageSense** and **Asciinator**  
+👷‍♂️ Built **scalable applications** like **Pluk**, **Pagesense**, and **Asciinator**  
 
 
-🔧 Recent projects leverage **Firebase**, **Docker**, and **serverless architectures**  
+⌨️ Recent projects leverage **Firebase**, **Docker**, and **serverless architectures**  
 
 
 🎯 Passionate about delivering **user-centric, high-performance solutions**
