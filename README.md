@@ -26,7 +26,6 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlkNTR2cjB6cmViaGwyYmdodWxzdnl6MDcybm9pYWo1ZHk1c3JlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0VI4nfJrbUYhiNnFiw/giphy.gif" width="148" alt="fun gif" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jorstors&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="200" alt="languages graph" />
 </p>
 
 
